@@ -6,7 +6,12 @@
           <option name="url" value="http://github.com" />
           <option name="userName" value="pkolmykov" />
         </UrlAndUserName>
+        <UrlAndUserName>
+          <option name="url" value="https://github.com/netpulse/server-galaxy.git" />
+          <option name="userName" value="" />
+        </UrlAndUserName>
       </list>
     </option>
+    <option name="cloneParentDir" value="D:\Projects" />
   </component>
 </application>
