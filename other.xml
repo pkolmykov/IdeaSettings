@@ -70,4 +70,11 @@
   <component name="RefactoringSettings">
     <option name="INTRODUCE_LOCAL_CREATE_FINALS" value="true" />
   </component>
+  <component name="RemoteTailSettings">
+    <connections>
+      <connection host="" port="0" username="" password="" filePath="" />
+    </connections>
+    <setting name="audioClipPath" value="" />
+    <setting name="bufferSize" value="1000" />
+  </component>
 </application>
