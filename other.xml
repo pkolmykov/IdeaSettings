@@ -123,7 +123,7 @@
   </component>
   <component name="RefactoringSettings">
     <option name="renameParameterInHierarchy" value="false" />
-    <option name="INTRODUCE_LOCAL_CREATE_FINALS" value="true" />
+    <option name="INTRODUCE_LOCAL_CREATE_FINALS" value="false" />
     <option name="RENAME_PARAMETER_IN_HIERARCHY" value="false" />
   </component>
   <component name="RemoteTailSettings">
