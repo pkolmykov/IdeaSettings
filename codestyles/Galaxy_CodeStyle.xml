@@ -15,9 +15,9 @@
       <package name="" withSubpackages="true" static="true" />
     </value>
   </option>
-  <MultiMarkdownCodeStyleSettings>
+  <MarkdownNavigatorCodeStyleSettings>
     <option name="RIGHT_MARGIN" value="72" />
-  </MultiMarkdownCodeStyleSettings>
+  </MarkdownNavigatorCodeStyleSettings>
   <XML>
     <option name="XML_LEGACY_SETTINGS_IMPORTED" value="true" />
   </XML>
