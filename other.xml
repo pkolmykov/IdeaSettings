@@ -63,14 +63,14 @@
   <component name="RecentTaskRepositories">
     <JIRA shared="false" url="https://npjira.atlassian.net">
       <option name="apiType" value="REST_2_0" />
-      <commitMessageFormat>{id} {summary}</commitMessageFormat>
+      <commitMessageFormat>{id}</commitMessageFormat>
       <password>dfebdfc2dfdedfdfdfc4dfcddf9edf9bdf93</password>
       <option name="jiraVersion" value="1000.35.0" />
       <option name="loginAnonymously" value="false" />
       <option name="preferredCloseTaskState" />
       <option name="preferredOpenTaskState" />
       <option name="searchQuery" value="assignee = currentUser() and resolution = Unresolved order by updated" />
-      <option name="shouldFormatCommitMessage" value="false" />
+      <option name="shouldFormatCommitMessage" value="true" />
       <option name="useHttpAuthentication" value="true" />
       <option name="useProxy" value="false" />
       <username>pkolmykov</username>
