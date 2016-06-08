@@ -77,7 +77,7 @@
     </JIRA>
     <GitHub shared="false" url="https://github.com">
       <option name="assignedIssuesOnly" value="false" />
-      <commitMessageFormat>{id} {summary}</commitMessageFormat>
+      <commitMessageFormat>#{number} {summary}</commitMessageFormat>
       <password />
       <token>df9ddf98df99df9ddf9fdf9cdfccdf9cdfcbdfcfdf98df92dfcedf9ddf9adfcfdf99df9cdfc8dfccdfc8df9ddf92df9adf9adf9bdf9edf9fdf99dfc8dfcfdf99dfcbdf9cdf9fdfc9df98df93df92dfc9</token>
       <option name="loginAnonymously" value="false" />
@@ -85,7 +85,7 @@
       <option name="preferredOpenTaskState" />
       <option name="repoAuthor" value="drinkit" />
       <option name="repoName" value="drinkit-server" />
-      <option name="shouldFormatCommitMessage" value="false" />
+      <option name="shouldFormatCommitMessage" value="true" />
       <option name="useHttpAuthentication" value="false" />
       <option name="useProxy" value="false" />
       <option name="user" value="" />
