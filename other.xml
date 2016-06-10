@@ -63,21 +63,21 @@
   <component name="RecentTaskRepositories">
     <JIRA shared="false" url="https://npjira.atlassian.net">
       <option name="apiType" value="REST_2_0" />
-      <commitMessageFormat>{id} {summary}</commitMessageFormat>
+      <commitMessageFormat>{id}</commitMessageFormat>
       <password>dfebdfc2dfdedfdfdfc4dfcddf9edf9bdf93</password>
       <option name="jiraVersion" value="1000.35.0" />
       <option name="loginAnonymously" value="false" />
       <option name="preferredCloseTaskState" />
       <option name="preferredOpenTaskState" />
       <option name="searchQuery" value="assignee = currentUser() and resolution = Unresolved order by updated" />
-      <option name="shouldFormatCommitMessage" value="false" />
+      <option name="shouldFormatCommitMessage" value="true" />
       <option name="useHttpAuthentication" value="true" />
       <option name="useProxy" value="false" />
       <username>pkolmykov</username>
     </JIRA>
     <GitHub shared="false" url="https://github.com">
       <option name="assignedIssuesOnly" value="false" />
-      <commitMessageFormat>{id} {summary}</commitMessageFormat>
+      <commitMessageFormat>#{number} {summary}</commitMessageFormat>
       <password />
       <token>df9ddf98df99df9ddf9fdf9cdfccdf9cdfcbdfcfdf98df92dfcedf9ddf9adfcfdf99df9cdfc8dfccdfc8df9ddf92df9adf9adf9bdf9edf9fdf99dfc8dfcfdf99dfcbdf9cdf9fdfc9df98df93df92dfc9</token>
       <option name="loginAnonymously" value="false" />
@@ -85,7 +85,7 @@
       <option name="preferredOpenTaskState" />
       <option name="repoAuthor" value="drinkit" />
       <option name="repoName" value="drinkit-server" />
-      <option name="shouldFormatCommitMessage" value="false" />
+      <option name="shouldFormatCommitMessage" value="true" />
       <option name="useHttpAuthentication" value="false" />
       <option name="useProxy" value="false" />
       <option name="user" value="" />
