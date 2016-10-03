@@ -3,6 +3,7 @@
     <option name="customScope" value="Files in Previous Search Result" />
     <option name="defaultScopeName" value="Files in Previous Search Result" />
     <option name="SEARCH_SCOPE" value="Files in Previous Search Result" />
+    <option name="FILE_MASK" value="*.java" />
     <recentFileMasks>
       <mask>*.properties</mask>
       <mask>*.html</mask>
@@ -14,8 +15,8 @@
       <mask>*.mxml</mask>
       <mask>*.sql</mask>
       <mask>*.py</mask>
-      <mask>*.java</mask>
       <mask>*.conf</mask>
+      <mask>*.java</mask>
     </recentFileMasks>
   </component>
 </application>
