@@ -1,7 +1,11 @@
 <application>
   <component name="FindSettings">
+    <option name="caseSensitive" value="true" />
     <option name="customScope" value="Files in Previous Search Result" />
     <option name="defaultScopeName" value="Files in Previous Search Result" />
+    <option name="wholeWordsOnly" value="true" />
+    <option name="CASE_SENSITIVE_SEARCH" value="true" />
+    <option name="WHOLE_WORDS_ONLY" value="true" />
     <option name="SEARCH_SCOPE" value="Files in Previous Search Result" />
     <recentFileMasks>
       <mask>*.properties</mask>
