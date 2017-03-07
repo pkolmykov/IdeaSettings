@@ -5,5 +5,9 @@
     <option name="PATTERN_ANNOTATION" value="org.intellij.lang.annotations.Pattern" />
     <option name="SUBST_ANNOTATION" value="org.intellij.lang.annotations.Subst" />
     <option name="RESOLVE_REFERENCES" value="true" />
+    <injection language="HQL" injector-id="java">
+      <display-name>NetpulseRepository.createQuery (com.netpulse.web.db.repository)</display-name>
+      <place><![CDATA[psiParameter().ofMethod(0, psiMethod().withName("createQuery").withParameters("java.lang.String").definedInClass("com.netpulse.web.db.repository.NetpulseRepository"))]]></place>
+    </injection>
   </component>
 </application>
