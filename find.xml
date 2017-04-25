@@ -12,11 +12,18 @@
       <mask>*.as</mask>
       <mask>*.css</mask>
       <mask>*.mxml</mask>
-      <mask>*.sql</mask>
       <mask>*.conf</mask>
       <mask>*.java</mask>
       <mask>*py</mask>
       <mask>*.py</mask>
+      <mask>*.p</mask>
+      <mask>*sq</mask>
+      <mask>*s</mask>
+      <mask>*</mask>
+      <mask>*.</mask>
+      <mask>*.s</mask>
+      <mask>*.sq</mask>
+      <mask>*.sql</mask>
     </recentFileMasks>
   </component>
 </application>
