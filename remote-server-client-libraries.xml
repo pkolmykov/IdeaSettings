@@ -1,0 +1,16 @@
+<application>
+  <component name="RemoteServerClientLibraries">
+    <client-library id="openshift-133">
+      <file path="$USER_HOME$/.IntelliJIdea2017.1/system/remote-server-libraries/openshift-133/slf4j-log4j12-1.7.5.jar" />
+      <file path="$USER_HOME$/.IntelliJIdea2017.1/system/remote-server-libraries/openshift-133/slf4j-api-1.7.5.jar" />
+      <file path="$USER_HOME$/.IntelliJIdea2017.1/system/remote-server-libraries/openshift-133/openshift-java-client-2.4.0.Final.jar" />
+      <file path="$USER_HOME$/.IntelliJIdea2017.1/system/remote-server-libraries/openshift-133/commons-io-2.4.jar" />
+      <file path="$USER_HOME$/.IntelliJIdea2017.1/system/remote-server-libraries/openshift-133/jsch-0.1.49.jar" />
+      <file path="$USER_HOME$/.IntelliJIdea2017.1/system/remote-server-libraries/openshift-133/hamcrest-core-1.3.jar" />
+      <file path="$USER_HOME$/.IntelliJIdea2017.1/system/remote-server-libraries/openshift-133/objenesis-1.3.jar" />
+      <file path="$USER_HOME$/.IntelliJIdea2017.1/system/remote-server-libraries/openshift-133/log4j-1.2.16.jar" />
+      <file path="$USER_HOME$/.IntelliJIdea2017.1/system/remote-server-libraries/openshift-133/org.eclipse.jgit-3.1.0.201310021548-r.jar" />
+      <file path="$USER_HOME$/.IntelliJIdea2017.1/system/remote-server-libraries/openshift-133/jboss-dmr-1.1.6.Final.jar" />
+    </client-library>
+  </component>
+</application>
