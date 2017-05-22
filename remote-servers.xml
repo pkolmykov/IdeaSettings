@@ -1,0 +1,9 @@
+<application>
+  <component name="RemoteServers">
+    <remote-server name="OpenShift" type="openshift">
+      <configuration domain="drunkedguru" email="pavel.kolmykov@gmail.com" password="Ahtung419">
+        <option name="OSBinaryLocation" value="" />
+      </configuration>
+    </remote-server>
+  </component>
+</application>
