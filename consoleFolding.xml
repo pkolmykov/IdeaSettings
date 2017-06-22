@@ -1,0 +1,11 @@
+<application>
+  <component name="ConsoleFoldingSettings">
+    <option name="addedPositive">
+      <list>
+        <option value="Loading XML bean definitions" />
+        <option value="Unknown property" />
+        <option value="MTurkPollingJob" />
+      </list>
+    </option>
+  </component>
+</application>
