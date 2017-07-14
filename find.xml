@@ -3,6 +3,7 @@
     <option name="customScope" value="Project Production Files" />
     <option name="defaultScopeName" value="Project Production Files" />
     <option name="SEARCH_SCOPE" value="Project Production Files" />
+    <option name="FILE_MASK" value="*.java" />
     <recentFileMasks>
       <mask>*.mxml</mask>
       <mask>*.conf</mask>
@@ -12,7 +13,6 @@
       <mask>*.sql</mask>
       <mask>*.sq</mask>
       <mask>*.s</mask>
-      <mask>*.jav</mask>
       <mask>*.j</mask>
       <mask>*.biold</mask>
       <mask>*.biol</mask>
@@ -26,14 +26,15 @@
       <mask>*.gradle</mask>
       <mask>*.ha</mask>
       <mask>*.h</mask>
-      <mask>*.</mask>
       <mask>*.ja</mask>
-      <mask>*.java</mask>
       <mask>.*</mask>
       <mask>.</mask>
       <mask>*</mask>
-      <mask>*.p</mask>
       <mask>*.py</mask>
+      <mask>*.p</mask>
+      <mask>*.</mask>
+      <mask>*.jav</mask>
+      <mask>*.java</mask>
     </recentFileMasks>
   </component>
 </application>
