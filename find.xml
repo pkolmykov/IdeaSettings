@@ -4,8 +4,6 @@
     <option name="defaultScopeName" value="Project Production Files" />
     <option name="SEARCH_SCOPE" value="Project Production Files" />
     <recentFileMasks>
-      <mask>*.mxml</mask>
-      <mask>*.conf</mask>
       <mask>*py</mask>
       <mask>*sq</mask>
       <mask>*s</mask>
@@ -27,13 +25,15 @@
       <mask>.*</mask>
       <mask>.</mask>
       <mask>*</mask>
-      <mask>*.java</mask>
       <mask>*.jav</mask>
       <mask>*.ja</mask>
       <mask>*.j</mask>
       <mask>*.</mask>
       <mask>*.p</mask>
       <mask>*.py</mask>
+      <mask>j</mask>
+      <mask>ja</mask>
+      <mask>*.java</mask>
     </recentFileMasks>
   </component>
 </application>
