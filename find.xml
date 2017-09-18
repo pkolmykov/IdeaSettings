@@ -3,8 +3,8 @@
     <option name="customScope" value="Project Production Files" />
     <option name="defaultScopeName" value="Project Production Files" />
     <option name="SEARCH_SCOPE" value="Project Production Files" />
+    <option name="FILE_MASK" value="*.py" />
     <recentFileMasks>
-      <mask>*py</mask>
       <mask>*sq</mask>
       <mask>*s</mask>
       <mask>*.sql</mask>
@@ -30,10 +30,11 @@
       <mask>*.j</mask>
       <mask>*.</mask>
       <mask>*.p</mask>
-      <mask>*.py</mask>
       <mask>j</mask>
       <mask>ja</mask>
       <mask>*.java</mask>
+      <mask>py</mask>
+      <mask>*.py</mask>
     </recentFileMasks>
   </component>
 </application>
