@@ -5,8 +5,8 @@
     <option name="wholeWordsOnly" value="true" />
     <option name="WHOLE_WORDS_ONLY" value="true" />
     <option name="SEARCH_SCOPE" value="All Places" />
+    <option name="FILE_MASK" value="*.py" />
     <recentFileMasks>
-      <mask>*sq</mask>
       <mask>*s</mask>
       <mask>*.sql</mask>
       <mask>*.sq</mask>
@@ -29,13 +29,14 @@
       <mask>*.j</mask>
       <mask>j</mask>
       <mask>ja</mask>
-      <mask>py</mask>
       <mask>*.jav</mask>
-      <mask>*.py</mask>
       <mask>*.p</mask>
       <mask>*.</mask>
       <mask>*.ja</mask>
       <mask>*.java</mask>
+      <mask>p</mask>
+      <mask>py</mask>
+      <mask>*.py</mask>
     </recentFileMasks>
   </component>
 </application>
