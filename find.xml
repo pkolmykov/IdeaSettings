@@ -3,10 +3,8 @@
     <option name="customScope" value="All Places" />
     <option name="defaultScopeName" value="All Places" />
     <option name="SEARCH_SCOPE" value="All Places" />
+    <option name="FILE_MASK" value="*.xml" />
     <recentFileMasks>
-      <mask>*s</mask>
-      <mask>*.sql</mask>
-      <mask>*.sq</mask>
       <mask>*.s</mask>
       <mask>*.biold</mask>
       <mask>*.biol</mask>
@@ -27,13 +25,16 @@
       <mask>j</mask>
       <mask>ja</mask>
       <mask>*.jav</mask>
-      <mask>*.p</mask>
-      <mask>*.</mask>
       <mask>*.ja</mask>
       <mask>*.java</mask>
       <mask>p</mask>
       <mask>py</mask>
       <mask>*.py</mask>
+      <mask>*.p</mask>
+      <mask>*.</mask>
+      <mask>*.x</mask>
+      <mask>*.xm</mask>
+      <mask>*.xml</mask>
     </recentFileMasks>
   </component>
 </application>
