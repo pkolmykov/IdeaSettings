@@ -7,9 +7,8 @@
     <option name="CASE_SENSITIVE_SEARCH" value="true" />
     <option name="WHOLE_WORDS_ONLY" value="true" />
     <option name="SEARCH_SCOPE" value="All Places" />
+    <option name="FILE_MASK" value="*.py" />
     <recentFileMasks>
-      <mask>*.s</mask>
-      <mask>*.biold</mask>
       <mask>*.biol</mask>
       <mask>*.bio</mask>
       <mask>*.bi</mask>
@@ -23,21 +22,23 @@
       <mask>*.h</mask>
       <mask>.*</mask>
       <mask>.</mask>
-      <mask>*</mask>
       <mask>*.j</mask>
       <mask>j</mask>
       <mask>ja</mask>
       <mask>*.jav</mask>
       <mask>*.ja</mask>
       <mask>*.java</mask>
+      <mask>*.p</mask>
+      <mask>*.xml</mask>
+      <mask>*.xm</mask>
+      <mask>*.x</mask>
+      <mask>*.</mask>
+      <mask>*py</mask>
+      <mask>*p</mask>
+      <mask>*</mask>
       <mask>p</mask>
       <mask>py</mask>
       <mask>*.py</mask>
-      <mask>*.p</mask>
-      <mask>*.</mask>
-      <mask>*.x</mask>
-      <mask>*.xm</mask>
-      <mask>*.xml</mask>
     </recentFileMasks>
   </component>
 </application>
