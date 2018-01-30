@@ -2,6 +2,8 @@
   <component name="FindSettings">
     <option name="customScope" value="Project and Libraries" />
     <option name="defaultScopeName" value="Project and Libraries" />
+    <option name="wholeWordsOnly" value="true" />
+    <option name="WHOLE_WORDS_ONLY" value="true" />
     <option name="SEARCH_SCOPE" value="Project and Libraries" />
     <recentFileMasks>
       <mask>*sq</mask>
@@ -14,11 +16,7 @@
       <mask>*.bio</mask>
       <mask>*.bi</mask>
       <mask>*.b</mask>
-      <mask>*.g</mask>
-      <mask>*.gr</mask>
-      <mask>*.gra</mask>
       <mask>*.grad</mask>
-      <mask>*.gradle</mask>
       <mask>*.ha</mask>
       <mask>*.h</mask>
       <mask>.*</mask>
@@ -31,9 +29,13 @@
       <mask>*.jav</mask>
       <mask>*.py</mask>
       <mask>*.p</mask>
-      <mask>*.</mask>
       <mask>*.ja</mask>
       <mask>*.java</mask>
+      <mask>*.</mask>
+      <mask>*.g</mask>
+      <mask>*.gr</mask>
+      <mask>*.gra</mask>
+      <mask>*.gradle</mask>
     </recentFileMasks>
   </component>
 </application>
