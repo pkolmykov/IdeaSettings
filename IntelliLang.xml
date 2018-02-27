@@ -1,6 +1,11 @@
 <application>
   <component name="LanguageInjectionConfiguration">
     <injection language="MySQL" injector-id="java">
+      <display-name>ActiveGoalPulsarRepository (com.netpulse.web.db.repository.main.pulsar.impl)</display-name>
+      <place><![CDATA[psiMethod().withName("dataSqlQuery").withParameters().definedInClass("com.netpulse.web.db.repository.main.pulsar.impl.ActiveGoalPulsarRepository")]]></place>
+      <place><![CDATA[psiMethod().withName("personIdsSqlQuery").withParameters().definedInClass("com.netpulse.web.db.repository.main.pulsar.impl.ActiveGoalPulsarRepository")]]></place>
+    </injection>
+    <injection language="MySQL" injector-id="java">
       <display-name>ChallengeLeaderboardPulsarRepository (com.netpulse.web.db.repository.main.pulsar.impl)</display-name>
       <place><![CDATA[psiMethod().withName("dataSqlQuery").withParameters().definedInClass("com.netpulse.web.db.repository.main.pulsar.impl.ChallengeLeaderboardPulsarRepository")]]></place>
       <place><![CDATA[psiMethod().withName("personIdsSqlQuery").withParameters().definedInClass("com.netpulse.web.db.repository.main.pulsar.impl.ChallengeLeaderboardPulsarRepository")]]></place>
