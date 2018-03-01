@@ -1,9 +1,23 @@
 <application>
   <component name="LanguageInjectionConfiguration">
     <injection language="MySQL" injector-id="java">
+      <display-name>ChallengeLeaderboardPulsarRepository (com.netpulse.web.db.repository.main.pulsar.impl)</display-name>
+      <place><![CDATA[psiMethod().withName("dataSqlQuery").withParameters().definedInClass("com.netpulse.web.db.repository.main.pulsar.impl.ChallengeLeaderboardPulsarRepository")]]></place>
+      <place><![CDATA[psiMethod().withName("personIdsSqlQuery").withParameters().definedInClass("com.netpulse.web.db.repository.main.pulsar.impl.ChallengeLeaderboardPulsarRepository")]]></place>
+    </injection>
+    <injection language="MySQL" injector-id="java">
       <display-name>EarnHistoryPulsarRepository (com.netpulse.web.db.repository.main.pulsar.impl)</display-name>
       <place><![CDATA[psiMethod().withName("dataSqlQuery").withParameters().definedInClass("com.netpulse.web.db.repository.main.pulsar.impl.EarnHistoryPulsarRepository")]]></place>
       <place><![CDATA[psiMethod().withName("personIdsSqlQuery").withParameters().definedInClass("com.netpulse.web.db.repository.main.pulsar.impl.EarnHistoryPulsarRepository")]]></place>
+    </injection>
+    <injection language="MySQL" injector-id="java">
+      <display-name>GoalProgressPulsarRepository.dataSqlQuery (com.netpulse.web.db.repository.main.pulsar.impl)</display-name>
+      <place><![CDATA[psiMethod().withName("dataSqlQuery").withParameters().definedInClass("com.netpulse.web.db.repository.main.pulsar.impl.GoalProgressPulsarRepository")]]></place>
+    </injection>
+    <injection language="MySQL" injector-id="java">
+      <display-name>GuestPassNotActivatedPulsarRepository (com.netpulse.web.db.repository.main.pulsar.impl)</display-name>
+      <place><![CDATA[psiMethod().withName("dataSqlQuery").withParameters().definedInClass("com.netpulse.web.db.repository.main.pulsar.impl.GuestPassNotActivatedPulsarRepository")]]></place>
+      <place><![CDATA[psiMethod().withName("personIdsSqlQuery").withParameters().definedInClass("com.netpulse.web.db.repository.main.pulsar.impl.GuestPassNotActivatedPulsarRepository")]]></place>
     </injection>
     <injection language="HQL" injector-id="java">
       <display-name>NetpulseRepository.createQuery (com.netpulse.web.db.repository)</display-name>
