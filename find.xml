@@ -5,8 +5,8 @@
     <option name="localRegularExpressions" value="true" />
     <option name="LOCAL_REGULAR_EXPRESSIONS" value="true" />
     <option name="SEARCH_SCOPE" value="Project and Libraries" />
+    <option name="FILE_MASK" value="*.conf" />
     <recentFileMasks>
-      <mask>*sq</mask>
       <mask>*s</mask>
       <mask>*.sql</mask>
       <mask>*.sq</mask>
@@ -36,6 +36,7 @@
       <mask>*.gr</mask>
       <mask>*.gra</mask>
       <mask>*.gradle</mask>
+      <mask>*.conf</mask>
     </recentFileMasks>
   </component>
 </application>
