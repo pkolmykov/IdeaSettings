@@ -7,8 +7,8 @@
     <option name="CASE_SENSITIVE_SEARCH" value="true" />
     <option name="WHOLE_WORDS_ONLY" value="true" />
     <option name="SEARCH_SCOPE" value="Project and Libraries" />
+    <option name="FILE_MASK" value="*.xml" />
     <recentFileMasks>
-      <mask>*sq</mask>
       <mask>*s</mask>
       <mask>*.sql</mask>
       <mask>*.sq</mask>
@@ -38,6 +38,7 @@
       <mask>*.gr</mask>
       <mask>*.gra</mask>
       <mask>*.gradle</mask>
+      <mask>*.xml</mask>
     </recentFileMasks>
   </component>
 </application>
