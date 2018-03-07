@@ -28,5 +28,9 @@
       <display-name>NetpulseRepository.createQuery (com.netpulse.web.db.repository)</display-name>
       <place><![CDATA[psiParameter().ofMethod(0, psiMethod().withName("createQuery").withParameters("java.lang.String").definedInClass("com.netpulse.web.db.repository.NetpulseRepository"))]]></place>
     </injection>
+    <injection language="MySQL" injector-id="java">
+      <display-name>ReferralJoinPulsarRepository.personIdsSqlQuery (com.netpulse.web.db.repository.main.pulsar.impl)</display-name>
+      <place><![CDATA[psiMethod().withName("personIdsSqlQuery").withParameters().definedInClass("com.netpulse.web.db.repository.main.pulsar.impl.ReferralJoinPulsarRepository")]]></place>
+    </injection>
   </component>
 </application>
