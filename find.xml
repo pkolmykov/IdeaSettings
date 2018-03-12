@@ -37,7 +37,7 @@
       <mask>*.gr</mask>
       <mask>*.gra</mask>
       <mask>*.gradle</mask>
-      <mask>*.xml</mask>
+      <mask>*.conf</mask>
     </recentFileMasks>
   </component>
 </application>

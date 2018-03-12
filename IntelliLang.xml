@@ -1,11 +1,6 @@
 <application>
   <component name="LanguageInjectionConfiguration">
     <injection language="MySQL" injector-id="java">
-      <display-name>ActiveGoalPulsarRepository (com.netpulse.web.db.repository.main.pulsar.impl)</display-name>
-      <place><![CDATA[psiMethod().withName("dataSqlQuery").withParameters().definedInClass("com.netpulse.web.db.repository.main.pulsar.impl.ActiveGoalPulsarRepository")]]></place>
-      <place><![CDATA[psiMethod().withName("personIdsSqlQuery").withParameters().definedInClass("com.netpulse.web.db.repository.main.pulsar.impl.ActiveGoalPulsarRepository")]]></place>
-    </injection>
-    <injection language="MySQL" injector-id="java">
       <display-name>ChallengeLeaderboardPulsarRepository (com.netpulse.web.db.repository.main.pulsar.impl)</display-name>
       <place><![CDATA[psiMethod().withName("dataSqlQuery").withParameters().definedInClass("com.netpulse.web.db.repository.main.pulsar.impl.ChallengeLeaderboardPulsarRepository")]]></place>
       <place><![CDATA[psiMethod().withName("personIdsSqlQuery").withParameters().definedInClass("com.netpulse.web.db.repository.main.pulsar.impl.ChallengeLeaderboardPulsarRepository")]]></place>
@@ -29,7 +24,8 @@
       <place><![CDATA[psiParameter().ofMethod(0, psiMethod().withName("createQuery").withParameters("java.lang.String").definedInClass("com.netpulse.web.db.repository.NetpulseRepository"))]]></place>
     </injection>
     <injection language="MySQL" injector-id="java">
-      <display-name>ReferralJoinPulsarRepository.personIdsSqlQuery (com.netpulse.web.db.repository.main.pulsar.impl)</display-name>
+      <display-name>ReferralJoinPulsarRepository (com.netpulse.web.db.repository.main.pulsar.impl)</display-name>
+      <place><![CDATA[psiMethod().withName("dataSqlQuery").withParameters().definedInClass("com.netpulse.web.db.repository.main.pulsar.impl.ReferralJoinPulsarRepository")]]></place>
       <place><![CDATA[psiMethod().withName("personIdsSqlQuery").withParameters().definedInClass("com.netpulse.web.db.repository.main.pulsar.impl.ReferralJoinPulsarRepository")]]></place>
     </injection>
   </component>
