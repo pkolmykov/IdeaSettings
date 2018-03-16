@@ -24,6 +24,10 @@
       <place><![CDATA[psiMethod().withName("dataSqlQuery").withParameters().definedInClass("com.netpulse.web.db.repository.main.pulsar.impl.GuestPassNotActivatedPulsarRepository")]]></place>
       <place><![CDATA[psiMethod().withName("personIdsSqlQuery").withParameters().definedInClass("com.netpulse.web.db.repository.main.pulsar.impl.GuestPassNotActivatedPulsarRepository")]]></place>
     </injection>
+    <injection language="MySQL" injector-id="java">
+      <display-name>InactiveUserPulsarRepository.dataSqlQuery (com.netpulse.web.db.repository.main.pulsar.impl)</display-name>
+      <place><![CDATA[psiMethod().withName("dataSqlQuery").withParameters().definedInClass("com.netpulse.web.db.repository.main.pulsar.impl.InactiveUserPulsarRepository")]]></place>
+    </injection>
     <injection language="HQL" injector-id="java">
       <display-name>NetpulseRepository.createQuery (com.netpulse.web.db.repository)</display-name>
       <place><![CDATA[psiParameter().ofMethod(0, psiMethod().withName("createQuery").withParameters("java.lang.String").definedInClass("com.netpulse.web.db.repository.NetpulseRepository"))]]></place>
