@@ -1,8 +1,8 @@
 <application>
   <component name="FindSettings">
-    <option name="customScope" value="All Places" />
-    <option name="defaultScopeName" value="All Places" />
-    <option name="SEARCH_SCOPE" value="All Places" />
+    <option name="customScope" value="Project Production Files" />
+    <option name="defaultScopeName" value="Project Production Files" />
+    <option name="SEARCH_SCOPE" value="Project Production Files" />
     <recentFileMasks>
       <mask>*s</mask>
       <mask>*.sql</mask>
@@ -27,13 +27,13 @@
       <mask>*.py</mask>
       <mask>*.p</mask>
       <mask>*.ja</mask>
-      <mask>*.java</mask>
       <mask>*.</mask>
       <mask>*.g</mask>
       <mask>*.gr</mask>
       <mask>*.gra</mask>
       <mask>*.gradle</mask>
       <mask>*.conf</mask>
+      <mask>*.java</mask>
     </recentFileMasks>
   </component>
 </application>
